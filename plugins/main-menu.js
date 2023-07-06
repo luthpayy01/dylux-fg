@@ -30,10 +30,10 @@ const defaultMenu = {
   before: `
 ◈ ━━━━━ *DyLux  ┃ ᴮᴼᵀ* ━━━━━ ◈
  
-👋🏻 _Hola_ *%name*
-🧿 Nivel : *%level* 
+👋🏻 _Hai_ *%name*
+🧿 Level : *%level* 
 👥 Usuarios : %totalreg
-📈 Tiempo activo : %muptime
+📈 Time active : %muptime
 ─────────────
 ▢ Crea tu propio bot 
 • https://youtu.be/xFqjKN1Qt80
